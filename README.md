@@ -1,6 +1,4 @@
-# CricketPlayerPerformanceAnalysis_main
-
-# Cricket Players Performance Analysis - Mini Project Guide
+# Cricket Players Performance Analysis - Mini Project
 
 ## Project Overview
 This mini project analyzes cricket players' performance using R programming. The structure is similar to your Movie Analysis project but focuses on cricket statistics including runs, wickets, batting average, strike rate, and player performance ratings.
