@@ -529,3 +529,8 @@ summary_data <- data.frame(
 write.csv(summary_data, "cricket_analysis_summary.csv", row.names = FALSE)
 cat("\nSummary saved to: cricket_analysis_summary.csv\n")
 
+
+cat("=================================================\n")
+cat("      THIS WAS THE R PROJECT      \n")
+cat("=================================================\n")
+
